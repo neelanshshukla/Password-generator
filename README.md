@@ -2,4 +2,4 @@
 
  [CLICK HERE FOR DEMO](https://neelanshshukla.github.io/Password-generator/)
 
- ![here is the screenshot](randompassword.png)
+ ![here is the screenshot](randonpassword.png)
